@@ -5,6 +5,15 @@ Hi, I'm Trisha! I have 7+ years of work experience which includes 2 in sales and
 My CV in [pdf]().
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
+
+## Portfolio Projects
+### Cyclistic Capstone Project
+[![Watch the video](https://img.youtube.com/vi/EF6fqnnl3Uk/maxresdefault.jpg)](https://youtu.be/EF6fqnnl3Uk)
+
+#### [Watch this video on YouTube](https://youtu.be/EF6fqnnl3Uk)
+
+## Education
+## Certificates
 ## Contact
 * LinkedIn: [@trishafernandes](https://www.linkedin.com/in/trishafernandes7/)
 * Email: trishfernandes007@gmail.com

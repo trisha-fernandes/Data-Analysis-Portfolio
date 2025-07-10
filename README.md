@@ -8,11 +8,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 ### Cyclistic Capstone Project
+
+I have created a video of the entire cleaning process. Click on the below image or the link mentioned below.
 [![Watch the video](https://img.youtube.com/vi/ov8Koceivsc/maxresdefault.jpg)](https://youtu.be/ov8Koceivsc)
 
 #### [Watch this video on YouTube](https://youtu.be/ov8Koceivsc)
-
-For the entire cleaning process view video [link](https://youtu.be/ov8Koceivsc)
 
 ## Education
 ## Certificates

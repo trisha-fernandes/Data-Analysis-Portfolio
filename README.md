@@ -8,13 +8,11 @@ My CV in [pdf]().
 ### Cyclistic Capstone Project
 
 Here is the presentation with insights and recommendations in a video format. Click on the below image or the link.
-
 [![Watch the video](https://img.youtube.com/vi/OBbkDIB5tcs/maxresdefault.jpg)](https://youtu.be/OBbkDIB5tcs)
 
 #### [Click to watch the above video on YouTube](https://youtu.be/OBbkDIB5tcs)
 
-I have created a video of the entire cleaning process. Click on the below image or the link.
-
+I have also created a video of the entire cleaning process. Click on the below image or the link.
 [![Watch the video](https://img.youtube.com/vi/ov8Koceivsc/maxresdefault.jpg)](https://youtu.be/ov8Koceivsc)
 
 #### [Click to watch the above video on YouTube](https://youtu.be/ov8Koceivsc)

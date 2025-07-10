@@ -2,7 +2,7 @@
 ## About
 Hi, I'm Trisha! I have 7+ years of work experience which includes 2 in sales and 5+ in marketing. I’m passionate about improving efficiency of business operations. I seamlessly analyse data with a keen eye for insights & patterns while possessing lateral and creative thinking capabilities. Can create visualizations in excel, RStudio, Tableau & Power BI with data storytelling skills that align solutions to the business problem. Well versed with cleaning, sorting, filtering & pivoting data in excel, R & using SQL in BigQuery. I’m self-motivated with a servant leadership mindset.
 
-My CV in [pdf]().
+My CV in [pdf](https://github.com/trisha-fernandes/Data-Analysis-Portfolio/blob/main/Trisha_Fernandes-Resume2025_BusinessAnalyst.pdf).
 
 ## Portfolio Projects
 ### Cyclistic Capstone Project

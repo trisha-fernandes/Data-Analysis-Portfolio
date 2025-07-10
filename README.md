@@ -4,8 +4,6 @@ Hi, I'm Trisha! I have 7+ years of work experience which includes 2 in sales and
 
 My CV in [pdf]().
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
-
 ## Portfolio Projects
 ### Cyclistic Capstone Project
 

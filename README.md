@@ -31,8 +31,6 @@ Date Range: July 2024 to June 2025
 
 #### [Click to watch the above video on YouTube](https://youtu.be/ov8Koceivsc)
 
-## Education
-## Certificates
 ## Contact
 * LinkedIn: [@trishafernandes](https://www.linkedin.com/in/trishafernandes7/)
 * Email: trishfernandes007@gmail.com

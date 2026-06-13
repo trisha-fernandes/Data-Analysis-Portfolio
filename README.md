@@ -6,8 +6,8 @@ Hi, I'm Trisha! I have 7+ years of work experience which includes 2 in sales and
 ### Adventure Works Power BI Dashboard Capstone Project
 **Goal**: Creating a Power BI Dashboard.
 
-**Files**:
-1. 
+**File**:
+[Click to download the PBIX file to view on Power BI desktop](https://github.com/trisha-fernandes/Data-Analysis-Portfolio/blob/main/AdventureWorks_PowerBI_Course_Project.pbix)
 
 ### Cyclistic Capstone Project
 

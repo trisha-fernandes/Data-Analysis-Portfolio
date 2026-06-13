@@ -1,8 +1,14 @@
 # Trisha Fernandes - Data Analyst Portfolio
 ## About
-Hi, I'm Trisha! I have 7+ years of work experience which includes 2 in sales and 5+ in marketing. I’m passionate about improving efficiency of business operations. I seamlessly analyse data with a keen eye for insights & patterns while possessing lateral and creative thinking capabilities. Can create visualizations in excel, RStudio, Tableau & Power BI with data storytelling skills that align solutions to the business problem. Well versed with cleaning, sorting, filtering & pivoting data in excel, R & using SQL in BigQuery. I’m self-motivated with a servant leadership mindset.
+Hi, I'm Trisha! I have 7+ years of work experience which includes 2 in sales and 5+ in marketing. I seamlessly analyse data with a keen eye for insights & patterns while possessing lateral and creative thinking capabilities. Can create visualizations in excel, RStudio, Tableau & Power BI with data storytelling skills that align solutions to the business problem. Well versed with cleaning, sorting, filtering & pivoting data in excel, R & using SQL in BigQuery. I’m self-motivated with a servant leadership mindset.
 
 ## Portfolio Projects
+### Adventure Works Power BI Dashboard Capstone Project
+**Goal**: Creating a Power BI Dashboard.
+
+**Files**:
+1. 
+
 ### Cyclistic Capstone Project
 
 **Goal**: Converting Casual riders to annual members.
